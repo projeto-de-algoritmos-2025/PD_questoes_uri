@@ -18,7 +18,7 @@ Tabela com os links para as devidas questões.
 
 | Problema | Dificuldade | Método | Solução Código | Responsável                             |
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
-| [1409 - Zak Galou](https://judge.beecrowd.com/pt/problems/view/1409) | Difícil (9) |  | [1409.py](./solucoes/1409.py) | [Danilo](https://github.com/danilow200) |
+| [1409 - Zak Galou](https://judge.beecrowd.com/pt/problems/view/1409) | Difícil (9) | Knapsack | [1409.py](./solucoes/1409.py) | [Danilo](https://github.com/danilow200) |
 |  |  |  |  | [Danilo](https://github.com/danilow200) |
 |  |  |  |  | [Joao Victor Marques](https://github.com/jmarquees) |
 
