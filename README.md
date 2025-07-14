@@ -20,7 +20,7 @@ Tabela com os links para as devidas questões.
 | -------- | ----------- | ------ | -------------- | --------------------------------------- |
 | [1409 - Zak Galou](https://judge.beecrowd.com/pt/problems/view/1409) | Difícil (9) | Knapsack | [1409.py](./solucoes/1409.py) | [Danilo](https://github.com/danilow200) |
 | [1767 - Saco do Papai Noel](https://judge.beecrowd.com/pt/problems/view/1409) | Médio (5) | Knapsack | [1769.py](./solucoes/1767.py) | [Danilo](https://github.com/danilow200) |
-|  |  |  |  | [Joao Victor Marques](https://github.com/jmarquees) |
+| [879 - Profitable Schemes](https://leetcode.com/problems/profitable-schemes/description/) | Difícil | Knapsack | [879.py](./solucoes/879.py) | [Joao Victor Marques](https://github.com/jmarquees) |
 
 
 
